@@ -1,2 +1,2 @@
-database: true
-port: 333
+session: true
+port: 3002

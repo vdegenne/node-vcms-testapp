@@ -1,1 +1,3 @@
-import {  } from "vc";
+import {start} from 'vcms';
+
+start();
