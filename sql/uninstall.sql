@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS pizzajerry;
+DROP ROLE IF EXISTS testdbuser;
