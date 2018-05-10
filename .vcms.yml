@@ -1,2 +1,6 @@
-session: true
 port: 3002
+session: true
+
+database: true
+db-user: vcms_user
+db-password: passwor
